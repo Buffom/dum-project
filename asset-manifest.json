@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dum-project/static/css/main.98dd3fb1.chunk.css",
+    "main.js": "/dum-project/static/js/main.e43916b9.chunk.js",
+    "main.js.map": "/dum-project/static/js/main.e43916b9.chunk.js.map",
+    "runtime-main.js": "/dum-project/static/js/runtime-main.f6205d17.js",
+    "runtime-main.js.map": "/dum-project/static/js/runtime-main.f6205d17.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/dum-project/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.48666e1a.chunk.js": "/dum-project/static/js/2.48666e1a.chunk.js",
+    "static/js/2.48666e1a.chunk.js.map": "/dum-project/static/js/2.48666e1a.chunk.js.map",
+    "static/js/3.0e252ac1.chunk.js": "/dum-project/static/js/3.0e252ac1.chunk.js",
+    "static/js/3.0e252ac1.chunk.js.map": "/dum-project/static/js/3.0e252ac1.chunk.js.map",
+    "index.html": "/dum-project/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/dum-project/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.98dd3fb1.chunk.css.map": "/dum-project/static/css/main.98dd3fb1.chunk.css.map",
+    "static/js/2.48666e1a.chunk.js.LICENSE.txt": "/dum-project/static/js/2.48666e1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6205d17.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.48666e1a.chunk.js",
+    "static/css/main.98dd3fb1.chunk.css",
+    "static/js/main.e43916b9.chunk.js"
+  ]
+}
